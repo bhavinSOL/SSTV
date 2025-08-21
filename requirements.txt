@@ -2,3 +2,7 @@ Flask
 Werkzeug
 gunicorn
 serverless-wsgi
+pysstv
+Pillow
+scipy
+numpy
